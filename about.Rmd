@@ -1,7 +1,7 @@
 ---
-title: "About me"
+title: "About us"
 ---
 
-## Header
+## The Team
 
-Say more about you here.
+Chennai based engineers enthusiastic in all domains.Happy to expand.

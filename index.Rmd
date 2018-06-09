@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website!"
+title: "Welcome to Team Artemis!"
 ---
 
-You're up and running!
+We're up and running!

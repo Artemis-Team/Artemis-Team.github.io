@@ -1,9 +1,10 @@
 ---
-title: "CV"
+title: "Projects"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+			
 
-## Header
+## #1 Green Box
+<a href="smart exhaust.pdf#" class="download" title="Download Brochure as PDF">Download Brochure</a>
 
-Say more about your CV here.
+Automated Automobile Emission Purification System.

@@ -1,28 +1,29 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "ARTEMIS"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
-  type: inverse
+  title: "<img id=\"logo\" style=\"width: 30px;\" src=\"pp.jpg\"/>"                             # CHANGE HERE 
   left:
+    - text: "ARTEMIS"
+      href: index.html
     - text: "Home"
       icon: fa-home
       href: index.html
     - text: "About"
       icon: fa-user 
       href: about.html
-    - text: "CV"
+    - text: "Projects"
       icon: fa-file-pdf-o
       href: cv.html
     - text: "Blog"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: https://Artemis-Team.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
-    - text: "Contact me"
+    - text: "Contact US"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:nibirule@gmail.com                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/Artemis-Team       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
